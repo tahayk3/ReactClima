@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tahayk3/ReactClima/static/css/main.6e3e9e1f.css",
+    "main.js": "/tahayk3/ReactClima/static/js/main.52d4f5dc.js",
+    "index.html": "/tahayk3/ReactClima/index.html",
+    "main.6e3e9e1f.css.map": "/tahayk3/ReactClima/static/css/main.6e3e9e1f.css.map",
+    "main.52d4f5dc.js.map": "/tahayk3/ReactClima/static/js/main.52d4f5dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e3e9e1f.css",
+    "static/js/main.52d4f5dc.js"
+  ]
+}

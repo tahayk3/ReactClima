@@ -1,0 +1,20 @@
+.buscar {
+  color: #555;
+  display: flex;
+  padding-top: 20px;
+  border-radius: 5px;
+}
+
+.inputForm{
+  width: 100%;
+  border: none;
+  background: transparent;
+  padding: 7px 8px;
+  font-size: 30px;
+  color: inherit;
+  border: 1px solid white;
+  border-radius: inherit;
+  color: white;
+  font-family: Courier New;
+}
+

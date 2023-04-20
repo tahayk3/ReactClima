@@ -1,0 +1,30 @@
+.container {
+    background-color: black;
+}
+
+.pais-ciudad {
+    display: flex;
+}
+
+.title {
+    color: rgb(255, 249, 249);
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    padding-right: 20px;
+    font-family: Courier New;
+}
+
+.title p {
+    color: rgb(181, 178, 178);
+    font-size: 1.5rem;
+}
+
+.contenedor-imagen {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-imagen img {
+    width: 3.5rem;
+}
